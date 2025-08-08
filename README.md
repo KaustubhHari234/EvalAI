@@ -54,7 +54,7 @@ To get a local copy up and running, follow these simple steps.
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/KaustubhHari234/EVAL-AI.git](https://github.com/KaustubhHari234/EVAL-AI.git)
+    git clone [https://github.com/KaustubhHari234/EvalAI.git](https://github.com/KaustubhHari234/EvalAI.git)
     cd EVAL-AI
     ```
 
@@ -107,4 +107,4 @@ To get a local copy up and running, follow these simple steps.
         ```
 
 
-Project Link: [https://github.com/KaustubhHari234/EVAL-AI](https://github.com/KaustubhHari234/EVAL-AI)
+Project Link: [https://github.com/KaustubhHari234/EvalAI](https://github.com/KaustubhHari234/EvalAI)
